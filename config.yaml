@@ -4,11 +4,11 @@ bifrost:
 
 bridge:
   name: Bifrost
-  mac: 00:11:22:33:44:55
-  ipaddress: 10.12.0.20
+  mac: 00:11:22:33:44:35
+  ipaddress: 10.0.60.98
   netmask: 255.255.255.0
-  gateway: 10.12.0.1
-  timezone: Europe/Copenhagen
+  gateway: 10.0.60.1
+  timezone: Europe/Berlin
 
 z2m:
   server1:
