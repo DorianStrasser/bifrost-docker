@@ -4,7 +4,7 @@ bifrost:
 
 bridge:
   name: Bifrost
-  mac: 00:11:22:33:44:35
+  mac: bc:24:11:56:21:D1
   ipaddress: 10.0.60.98
   netmask: 255.255.255.0
   gateway: 10.0.60.1
